@@ -1,0 +1,19 @@
+#marqueeStyle{
+font-size: 30px;
+}
+#school{
+    height: 650px;
+    width: 1400px;
+}
+body{
+    text-align: center;
+}
+.contact_1 a{
+    text-shadow: none;
+}
+#principal{
+  width:200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 100px;
+}
